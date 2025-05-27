@@ -1,0 +1,82 @@
+
+.menu {width:100%;
+	   background: #0ccf;
+	   list-style:none;
+	   margin:0;
+	   padding:0;}
+.menu li { display:inline-block; }	  
+
+.menu li a {padding:10px 10px;
+display: inline-block;
+color:black;
+font-family:arial;
+font-size: 17px;} 
+
+. menu li a : hover { background: #ccc ;
+                     color: #000; }  
+
+div img { width: 900px;
+       height: 300px;
+       position: relative ;
+           top: 5px ;
+           left: 220px; } 
+
+.laventa img { width: 550px;
+	          height: auto;
+	           float: right;
+	          left: 10px;
+	          top:-10px;
+}    
+
+.RS img { width: 350px;
+	       height: auto;
+	       float: left;
+	       left:-0%;
+}       
+
+.RSÑ img { width:350px;
+           height: auto; 
+           float:right;
+           left: 3%;	
+}
+ 
+ .UL img { width:80px ;
+           height:auto; }
+
+ * { margin-top: 10px;
+	   margin-bottom: 10px;
+	   margin-left: 10px;
+	   margin-right: 10px;
+}          
+
+h1, h2, h3, h4  {
+	font-family: arial ; 
+	 font-size: 25px;
+	 color: #0ccf;
+	 text-align: center;
+	 text-decoration: underline ;
+	 text-shadow: 1px 1px 1px #0ccf;
+ }
+ 
+ { font-family: arial ;
+	 font-size: 25px;
+	 color: #0ccf;
+	 text-align: center;
+	 text-decoration: underline;
+	 text-shadow: 1px 1px 1px #0ccf ; 
+	}
+p  { text-align: justify;
+	font-family: arial;
+ 	 font-size:20px ;
+ 	 text-indent: 25px; 
+ 	}
+ 
+footer { font-size:17px;
+	     background: #0ccf;
+	     font-family: arial;
+	 }
+
+.vi img { width:350px;
+           height: auto; 
+           float:right;
+           left: 0%;}

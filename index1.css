@@ -1,0 +1,85 @@
+.menu {width:100%;
+	   background: #0ccf;
+	   list-style:none;
+	   margin:0;
+	   padding:0;}
+
+.menu li { display:inline-block; }	  
+
+.menu li a {padding:10px 10px;
+            display: inline-block;
+            color:black;
+            font-family:arial;
+            font-size: 17px;
+} 
+
+.menu li a:hover { background:#ccc;
+                   color:#000; }  
+
+ * { margin-top: 10px;
+	   margin-bottom: 10px;
+	   margin-left: 10px;
+	   margin-right: 10px;
+}          
+
+.S p  { text-align: justify;
+	font-family: arial;
+ 	 font-size:20px ;
+ 	 text-indent: 25px;
+ 	}
+
+h1, h2, h3, h4, h5 {
+	font-family: arial ; 
+	 font-size: 25px;
+	 color: #0ccf;
+	 text-align: center;
+	 text-decoration: underline ;
+	 text-shadow: 1px 1px 1px #0ccf;
+ }
+
+
+h6   {
+	font-family: arial ; 
+	 font-size: 25px;
+	 color: #0ccf;
+	 text-align: center;
+	 text-decoration: underline ;
+	 text-shadow: 1px 1px 1px #0ccf;
+	  }
+.h p {text-align: center;
+	  font-family:arial;
+	  font-size:25px;
+
+}
+.P img { width: 900px;
+       height:300px;
+       position: relative ;
+           top: 5px ;
+           left: 220px; } 
+
+.pr img{width:230px;
+	     height:auto;
+	     float:right;
+}           
+
+.ba img {width:300px;
+	     height:auto;
+	     float:right;
+}
+
+.es img { width: 300px;
+	      height:auto;
+	      float: right;
+
+}
+p strong { text-decoration: underline;
+           font-size:26px;	
+}           
+
+footer { font-size:17px;
+	     background: #0ccf;
+	 }
+
+p { font-size: 20px ; 
+    font-family:arial; }
+cite p { text-align: right; }
